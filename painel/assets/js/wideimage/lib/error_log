@@ -1,0 +1,14 @@
+[12-Sep-2020 01:54:43 UTC] PHP Fatal error:  Class 'WideImage_Exception' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Image.php on line 30
+[12-Sep-2020 01:58:24 UTC] PHP Fatal error:  Class 'WideImage_Exception' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Coordinate.php on line 29
+[12-Sep-2020 01:58:53 UTC] PHP Fatal error:  Class 'WideImage_Exception' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/MapperFactory.php on line 30
+[12-Sep-2020 01:59:06 UTC] PHP Fatal error:  Class 'WideImage_Exception' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/OperationFactory.php on line 28
+[12-Sep-2020 02:02:03 UTC] PHP Fatal error:  Class 'WideImage_Image' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/PaletteImage.php on line 28
+[13-Sep-2020 09:30:23 UTC] PHP Fatal error:  Class 'WideImage_Image' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/TrueColorImage.php on line 28
+[13-Sep-2020 09:31:13 UTC] PHP Fatal error:  Class 'WideImage_Exception' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Canvas.php on line 28
+[02-Oct-2020 09:58:01 UTC] PHP Fatal error:  Class 'WideImage_Exception' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Canvas.php on line 28
+[02-Oct-2020 09:58:21 UTC] PHP Fatal error:  Class 'WideImage_Exception' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/MapperFactory.php on line 30
+[02-Oct-2020 09:58:42 UTC] PHP Fatal error:  Class 'WideImage_Exception' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Image.php on line 30
+[02-Oct-2020 09:59:19 UTC] PHP Fatal error:  Class 'WideImage_Exception' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/OperationFactory.php on line 28
+[02-Oct-2020 10:00:01 UTC] PHP Fatal error:  Class 'WideImage_Exception' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Coordinate.php on line 29
+[02-Oct-2020 10:01:24 UTC] PHP Fatal error:  Class 'WideImage_Image' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/TrueColorImage.php on line 28
+[02-Oct-2020 10:03:29 UTC] PHP Fatal error:  Class 'WideImage_Image' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/PaletteImage.php on line 28

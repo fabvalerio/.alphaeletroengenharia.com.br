@@ -1,0 +1,4 @@
+[26-Jan-2022 12:10:29 UTC] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home/alphaeletro/public_html/painel/landpage/cadastro.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/alphaeletro/public_html/painel/landpage/cadastro.php on line 3

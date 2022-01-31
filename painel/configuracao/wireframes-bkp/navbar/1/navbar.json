@@ -1,0 +1,10 @@
+{
+	"@navbar-bg" : "transparent",
+	"@navbar-color" : "#fff",
+	"@navbar-hover-color" : "red",
+	"@logo-altura" : "60px",
+	"@color-font": "#000",
+	"@nav-active-color": "#1f547d",
+	"@nav-item-color": "#000",
+	"@nav-text-caixa": "uppercase"
+}

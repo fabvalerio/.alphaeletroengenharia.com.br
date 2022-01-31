@@ -1,0 +1,8 @@
+{
+	"@footer-bg": "#192431",
+	"@footer-padding": "80px 0",
+	"@footer-color" :"#fff",
+	"@footer-hover-color" : "#ffc107",
+	"@font-size" : "11px",
+	"@footer-logo-algura" : "50px"
+}

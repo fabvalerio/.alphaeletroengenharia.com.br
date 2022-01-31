@@ -1,0 +1,32 @@
+[12-Sep-2020 02:21:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WideImage' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/BMP.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/BMP.php on line 25
+[12-Sep-2020 02:22:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WideImage' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/TGA.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/TGA.php on line 25
+[02-Oct-2020 10:34:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WideImage' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/TGA.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/TGA.php on line 25
+[02-Oct-2020 10:34:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WideImage' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/BMP.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/BMP.php on line 25
+[10-Nov-2020 16:41:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WideImage' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/TGA.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/TGA.php on line 25
+[10-Nov-2020 20:34:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WideImage' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/BMP.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/BMP.php on line 25
+[06-Feb-2021 10:52:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WideImage' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/BMP.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/BMP.php on line 25
+[06-Feb-2021 12:48:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WideImage' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/TGA.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Mapper/TGA.php on line 25

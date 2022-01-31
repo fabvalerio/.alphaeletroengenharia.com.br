@@ -1,0 +1,4 @@
+[26-Jan-2022 12:10:26 UTC] PHP Fatal error:  Uncaught Error: Class 'db' not found in /home/alphaeletro/public_html/painel/configuracao/visualizar.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/alphaeletro/public_html/painel/configuracao/visualizar.php on line 7

@@ -1,0 +1,3 @@
+[12-Sep-2020 02:12:34 UTC] PHP Fatal error:  Class 'WideImage_Exception' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Operation/Resize.php on line 30
+[02-Oct-2020 12:04:20 UTC] PHP Fatal error:  Class 'WideImage_Exception' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Operation/Resize.php on line 30
+[02-Feb-2021 06:57:16 UTC] PHP Fatal error:  Class 'WideImage_Exception' not found in /home/alphaeletro/public_html/painel/assets/js/wideimage/lib/Operation/Resize.php on line 30

@@ -1,0 +1,116 @@
+[
+	{
+		"midias_tipo_id":"1",
+		"midia_nome":"Facebook",
+		"midia_ico":"<i class=\"fab fa-facebook\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"2",
+		"midia_nome":"Instagram",
+		"midia_ico":"<i class=\"fab fa-instagram\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"3",
+		"midia_nome":"Youtube",
+		"midia_ico":"<i class=\"fab fa-youtube\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"4",
+		"midia_nome":"Twitter",
+		"midia_ico":"<i class=\"fab fa-twitter-square\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"5",
+		"midia_nome":"Linkedin",
+		"midia_ico":"<i class=\"fab fa-linkedin\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"6",
+		"midia_nome":"Github",
+		"midia_ico":"<i class=\"fab fa-github-square\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"7",
+		"midia_nome":"RSS",
+		"midia_ico":"<i class=\"fas fa-rss-square\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"8",
+		"midia_nome":"Site",
+		"midia_ico":"<i class=\"fas fa-globe-americas\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"9",
+		"midia_nome":"Pinterest",
+		"midia_ico":"<i class=\"fab fa-pinterest-square\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"10",
+		"midia_nome":"Google Plus",
+		"midia_ico":"<i class=\"fab fa-google-plus\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"11",
+		"midia_nome":"Chat",
+		"midia_ico":"<i class=\"fas fa-comment-alt\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"12",
+		"midia_nome":"Google Maps",
+		"midia_ico":"<i class=\"fas fa-map-marker-alt\"></i>"
+	},
+	{
+		"midias_tipo_id":"15",
+		"midia_nome":"Apple",
+		"midia_ico":"<i class=\"fab fa-apple\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"16",
+		"midia_nome":"Android",
+		"midia_ico":"<i class=\"fab fa-android\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"17",
+		"midia_nome":"Windows",
+		"midia_ico":"<i class=\"fab fa-windows\"></i>"
+	}, 
+		"midias_tipo_id":"19",
+		"midia_nome":"Skype",
+		"midia_ico":"<i class=\"fab fa-skype\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"20",
+		"midia_nome":"Foursquare",
+		"midia_ico":"<i class=\"fab fa-foursquare\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"21",
+		"midia_nome":"Vimeo",
+		"midia_ico":"<i class=\"fab fa-vimeo\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"24",
+		"midia_nome":"Behance",
+		"midia_ico":"<i class=\"fab fa-behance-square\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"26",
+		"midia_nome":"Spotify",
+		"midia_ico":"<i class=\"fab fa-spotify\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"27",
+		"midia_nome":"Soundcloud",
+		"midia_ico":"<i class=\"fab fa-soundcloud\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"29",
+		"midia_nome":"Git",
+		"midia_ico":"<i class=\"fab fa-git-square\"></i>"
+	}, 
+	{
+		"midias_tipo_id":"30",
+		"midia_nome":"Whatsapp",
+		"midia_ico":"<i class=\"fab fa-whatsapp\"></i>"
+	}
+]
